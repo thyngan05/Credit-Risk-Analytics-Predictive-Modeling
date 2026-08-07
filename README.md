@@ -1,7 +1,7 @@
 # Credit-Risk-Analytics-Predictive-Modeling
 
 ## 🌟 Giới thiệu dự án (About Project)
-Phân hệ đồ án ngành Công nghệ Thông tin, tập trung xây dựng hệ thống **Quản trị và Cảnh báo Sớm Rủi ro Tín dụng** cho ngân hàng. Dự án ứng dụng các kỹ thuật Khoa học Dữ liệu (Data Science) và Học máy (Machine Learning) nhằm tự động hóa quy trình thẩm định, dự báo nguy cơ vỡ nợ (nợ xấu) và hỗ trợ ban lãnh đạo ra quyết định kinh doanh chiến lược.
+Tập trung xây dựng hệ thống Quản trị và Cảnh báo Sớm Rủi ro Tín dụng (Credit Risk Management). Dự án ứng dụng toàn diện các kỹ thuật Phân tích dữ liệu (Data Analytics) và mô hình Học máy (Machine Learning) nhằm tự động hóa quy trình thẩm định hồ sơ, dự báo chính xác nguy cơ vỡ nợ và cung cấp Dashboard trực quan hỗ trợ ban lãnh đạo ra quyết định kinh doanh chiến lược.
 
 ---
 
@@ -10,7 +10,7 @@ Phân hệ đồ án ngành Công nghệ Thông tin, tập trung xây dựng h�
 * **Thư viện xử lý & Học máy:** Pandas, NumPy, Scikit-Learn, Imbalanced-Learn
 * **Mô hình AI:** Logistic Regression, Random Forest Classifier
 * **Trực quan hóa & Báo cáo:** Matplotlib, Seaborn, Microsoft Power BI
-* **Môi trường phát triển:** Google Colab, VS Code
+* **Môi trường phát triển:** Google Colab, Git/GitHub
 
 ---
 
